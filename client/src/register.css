@@ -1,0 +1,42 @@
+.App {
+    text-align: center;
+  }
+  
+  .image {
+    width: 40% !important;
+    height: 20% !important;
+    position: relative;
+    left: 30%;
+  }
+  .card {
+    justify-content: center; 
+    width: 50%;
+    left: 25%;
+    margin-top: 100px !important;
+  }
+  .form-control{
+    width: 50% !important;
+    position: relative;
+    left: 25%;
+  }
+  .form-label {
+    position: relative;
+    left: 25%;
+  }
+  .card-text{
+    position: relative;
+    margin-top: 10px;
+    left: 30%;
+  }
+  .alert {
+    width: 50% !important;
+    left: 25%;
+  }
+  .register-button{
+    position: relative;
+    left: 35%;
+    width: 25% !important;
+    margin-top: 20px;
+  
+  }
+  
